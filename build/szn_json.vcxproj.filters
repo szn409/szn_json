@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\Administrator.WIN-NVGDNPMO79K\Desktop\szn_json\szn_json\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Administrator.WIN-NVGDNPMO79K\Desktop\szn_json\szn_json\szn_json\json_reader.cpp">
+      <Filter>szn_json</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Administrator.WIN-NVGDNPMO79K\Desktop\szn_json\szn_json\szn_json\tree.cpp">
+      <Filter>szn_json</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\Administrator.WIN-NVGDNPMO79K\Desktop\szn_json\szn_json\szn_json\define.h">
+      <Filter>szn_json</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Administrator.WIN-NVGDNPMO79K\Desktop\szn_json\szn_json\szn_json\json_reader.h">
+      <Filter>szn_json</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Administrator.WIN-NVGDNPMO79K\Desktop\szn_json\szn_json\szn_json\tree.h">
+      <Filter>szn_json</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Administrator.WIN-NVGDNPMO79K\Desktop\szn_json\szn_json\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{2A2FA2C6-35F5-3A2F-B979-2FBEBC7DCF74}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="szn_json">
+      <UniqueIdentifier>{59AECA60-FB0D-326B-B54B-8B4926756889}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

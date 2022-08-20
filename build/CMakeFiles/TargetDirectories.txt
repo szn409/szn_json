@@ -1,0 +1,3 @@
+C:/Users/Administrator.WIN-NVGDNPMO79K/Desktop/szn_json/szn_json/build/CMakeFiles/szn_json.dir
+C:/Users/Administrator.WIN-NVGDNPMO79K/Desktop/szn_json/szn_json/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/Administrator.WIN-NVGDNPMO79K/Desktop/szn_json/szn_json/build/CMakeFiles/ZERO_CHECK.dir
